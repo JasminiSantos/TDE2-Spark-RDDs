@@ -2,7 +2,7 @@
 # Big Data Processing with Apache Spark RDDs
 
 <p>
-You and your team were hired to process data using MapReduce. Your company has access to a
+You and your team were hired to process data using Spark RDDs and Pair RDDs. Your company has access to a
 dataset with commercial transactions between countries during the past 30 years. For each transaction,
 the dataset contains the following variables:
 </p>
